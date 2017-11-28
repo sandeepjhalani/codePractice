@@ -1,4 +1,4 @@
-package com.sandy.prctice.BitwiseOperator;
+package com.sandy.prctice.basicproblems;
 
 import javax.jws.soap.SOAPBinding;
 
